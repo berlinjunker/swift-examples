@@ -1,0 +1,9 @@
+### login
+POST https://account.sonnen.de/oauth/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code
+&code=xKdWGPJnFuy89PnRsCtD1m_dm_RQk8_N4WmjrYCZ5WA
+&client_id=a80a9abfd8c2847370340c96a04d2af7c691cce4c7cac58d8e12012f5da9280c
+&redirect_uri=https%3A%2F%2Fmy.sonnen.de%2F
+&code_verifier=V2hUpXGxh0u8ZKyTvtH6gct6dUZvy2k7fORlOpYnhQssJnuUODVgkAUW7xA-ResxbTpk640xVqHgpNV-PDVK-2g21NXUTrL_EQiu6HGlzaEy1umJjcaXyZ8t8b1yu6yt
